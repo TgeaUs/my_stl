@@ -14,3 +14,7 @@
 - [x] 适配器 <br>
 > 容器
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
